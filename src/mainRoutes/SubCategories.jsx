@@ -52,7 +52,7 @@ function SubCategories() {
         ))}
       </div>
 
-      <div className="fixed bottom-0 w-full">
+      <div className="absolute sm:bottom-0">
         <Footer />
       </div>
     </>
