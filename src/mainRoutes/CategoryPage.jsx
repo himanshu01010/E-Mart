@@ -50,7 +50,7 @@ function CategoryPage() {
         ))}
       </div>
 
-      <div className=" absolute md:bottom-0">
+      <div className=" absolute sm:bottom-0 w-full">
         <Footer/>
       </div>
     </>
